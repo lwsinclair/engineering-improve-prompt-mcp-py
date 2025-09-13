@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chung-ta1-engineering-improve-prompt-mcp-py-badge.png)](https://mseep.ai/app/chung-ta1-engineering-improve-prompt-mcp-py)
+
 # Engineer Improve Prompt MCP Server
 
 An MCP (Model Context Protocol) server that helps improve engineering prompts by making them clearer, more specific, and more actionable.
